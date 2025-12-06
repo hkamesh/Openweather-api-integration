@@ -27,7 +27,7 @@ The project is built with **Node.js**, **Express**, and **Axios**, with proper *
 
 ---
 
-Notes
+Notes:
 
 Free OpenWeather API keys may take a few minutes to activate.
 
@@ -36,3 +36,4 @@ Cache folder is automatically created if missing.
 Node.js (v14+) is required.
 
 The project uses Express and Axios for API handling and routing.
+
